@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi Developers 👋 [![Linkedin
-Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geetha-supriya-bathula-568305171/)](https://www.linkedin.com/in/aakash--01629954/)
+### Hi Developers 👋 
 I'm Full Stack JavaSrcipt Developer. Worked as a Guidewire Claim Center
-Configuration Developer for 2 years in reputed software company. ![Visitor
-Count](https://profile-counter.glitch.me/geethabathula/count.svg) Languages and
+Configuration Developer for 2 years in reputed software company.<br> ![Visitor
+Count](https://profile-counter.glitch.me/geethabathula/count.svg) <br>Languages and
 Tools:
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
